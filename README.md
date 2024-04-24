@@ -21,7 +21,7 @@ Quando acabares, carrega no botão "Commit Changes".
     c) Destinado a usuários individuais
     d) Usado principalmente para jogos
     
-    Resposta: ...
+    Resposta: B
 
   2. Das seguintes, qual é a função mais apropriada para um SO servidor?
 
@@ -30,7 +30,7 @@ Quando acabares, carrega no botão "Commit Changes".
     c) Fornecer software de entretenimento
     d) Gerir recursos e serviços de rede
     
-    Resposta: ...
+    Resposta: D
    
   3. Qual dos seguintes é um sistema operativo servidor popular?
 
@@ -39,7 +39,7 @@ Quando acabares, carrega no botão "Commit Changes".
     c) Ubuntu Server
     d) Android
     
-    Resposta: ...
+    Resposta: C
 
   4. Qual é o papel de um servidor num modelo cliente-servidor?
 
@@ -48,7 +48,7 @@ Quando acabares, carrega no botão "Commit Changes".
     c) Atuar como uma estação de trabalho independente
     d) Facilitar a comunicação ponto a ponto
     
-    Resposta: ...
+    Resposta: B
 
   5. Qual dos seguintes protocolos é mais usado para aceder remotamente a servidores?
 
@@ -57,7 +57,7 @@ Quando acabares, carrega no botão "Commit Changes".
     c) SSH
     d) SMTP
     
-    Resposta: ...
+    Resposta: C
 
 ## P2 - Indica, sequencialmnente, os comandos para realizar as seguintes instruções: (7.5v)
 
@@ -91,13 +91,18 @@ Quando acabares, carrega no botão "Commit Changes".
   1. Indica alguns aspetos que diferenciam um SO cliente de um SO servidor.
 
     Resposta:
-    ...
+Um sistema operacional de cliente é como o sistema no seu laptop ou telefone, feito para ser usado diretamente por você. É como ter o seu assistente pessoal digital, pronto para fazer o que você precisa, desde jogar até navegar na web.
+
+Por outro lado, um sistema operacional de servidor é como o maestro nos bastidores, garantindo que todos os serviços online, como sites, e-mails e bancos de dados, funcionem perfeitamente. É como ter alguém confiável cuidando para que tudo esteja funcionando sem problemas, mesmo que você não o veja.
+
      
   2. Explica a importância de otimizar um sistema operativo servidor, com exemplos de técnicas para otimização.
 
     Resposta:
-    ...
 
+Otimizar um sistema operacional (SO) servidor é como cuidar da sua casa digital, garantindo que tudo funcione perfeitamente para os visitantes. É como organizar uma grande festa, ajustando as configurações para lidar com muitas pessoas ao mesmo tempo. Além disso, é importante proteger o servidor contra invasores online, aplicando atualizações de segurança e configurando firewalls para manter os dados protegidos. Em resumo, é como manter sua casa digital sempre pronta para receber visitantes, segura e funcionando sem problemas.
+
+    
   3. Descreve o processo de instalar e configurar um servidor web num SO servidor, incluindo as etapas necessárias.
 
     Resposta:
